@@ -6,7 +6,7 @@ tweet_sentiment_to_csv.py
 	a simple Twitter streamer & sentiment analyzer for Python 3
 	that downloads tweets & user info from search queries
 
-	by Margaret Anne Rowe, with ample help from Ethan Beaman
+	by Margaret Anne Rowe, with ample help from Emily Beaman
 		mar299					|				 ejb100
 						@ georgetown.edu
 
